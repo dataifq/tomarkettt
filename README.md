@@ -31,7 +31,7 @@ Git sitesi: [burada](https://git-scm.com/)
 ## Bu depoyu klonlayın
 
 ```
-git clone https://github.com/kucingeros/tomarkettt
+https://github.com/dataifq/tomarkettt.git
 ```
 
 ## Tomarket dizinine gidin
