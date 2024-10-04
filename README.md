@@ -1,10 +1,5 @@
 
-## TomarketBot
-🖱️ clicker for [https://t.me/Tomarket_ai_bot](http://t.me/Tomarket_ai_bot/app?startapp=0000i73A)
-
-
-## Functionality
-| Functional                                                                      | Supported |
+## TomarketBot                                                          | Supported |
 |----------------------------------------------------------------|:---------:|
 | Auto Claim                                                     |     ✅     |
 | Auto Play Game                                                 |     ✅     |
